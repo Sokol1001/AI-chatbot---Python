@@ -1,0 +1,3 @@
+[console_scripts]
+pycloudflared=pycloudflared.__main__:main
+
